@@ -1,2 +1,2 @@
 # table
-larva time tabnle
+larva time table
